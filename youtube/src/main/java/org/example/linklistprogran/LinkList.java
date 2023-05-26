@@ -1,9 +1,7 @@
-package org.example.exe;
+package org.example.linklistprogran;
 
 //How do you find the middle element of a LinkedList?
 
-
-import java.util.Arrays;
 
 //public class LinkList {
 //    public static void main(String[] args) {
